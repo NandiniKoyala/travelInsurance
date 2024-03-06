@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-04T14:48:03 IST" name="Suite" finished-at="2024-03-04T14:50:32 IST" duration-ms="148587">
+    <groups>
+      <group name="smoke Test one">
+        <method signature="TestCase_001_StudentInsuranceNavigation.VerifyInsurance()[pri:1, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" name="VerifyInsurance" class="testCases.TestCase_001_StudentInsuranceNavigation"/>
+      </group> <!-- smoke Test one -->
+      <group name="regression Test One">
+        <method signature="TestCase_001_StudentInsuranceNavigation.EnterDetails1()[pri:2, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" name="EnterDetails1" class="testCases.TestCase_001_StudentInsuranceNavigation"/>
+        <method signature="TestCase_001_StudentInsuranceNavigation.EnterDetails2()[pri:3, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" name="EnterDetails2" class="testCases.TestCase_001_StudentInsuranceNavigation"/>
+        <method signature="TestCase_001_StudentInsuranceNavigation.EnterDetails3()[pri:4, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" name="EnterDetails3" class="testCases.TestCase_001_StudentInsuranceNavigation"/>
+        <method signature="TestCase_001_StudentInsuranceNavigation.EnterDetails4()[pri:5, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" name="EnterDetails4" class="testCases.TestCase_001_StudentInsuranceNavigation"/>
+        <method signature="TestCase_001_StudentInsuranceNavigation.EnterDetails5()[pri:6, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" name="EnterDetails5" class="testCases.TestCase_001_StudentInsuranceNavigation"/>
+        <method signature="TestCase_001_StudentInsuranceNavigation.EnterDetails6()[pri:7, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" name="EnterDetails6" class="testCases.TestCase_001_StudentInsuranceNavigation"/>
+        <method signature="TestCase_001_StudentInsuranceNavigation.EnterDetails7()[pri:8, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" name="EnterDetails7" class="testCases.TestCase_001_StudentInsuranceNavigation"/>
+        <method signature="TestCase_001_StudentInsuranceNavigation.EnterDetails8()[pri:9, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" name="EnterDetails8" class="testCases.TestCase_001_StudentInsuranceNavigation"/>
+        <method signature="TestCase_001_StudentInsuranceNavigation.InsurancePlans()[pri:10, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" name="InsurancePlans" class="testCases.TestCase_001_StudentInsuranceNavigation"/>
+      </group> <!-- regression Test One -->
+      <group name="regression Test Three">
+        <method signature="TestCase_003_HealthInsurance.HealthInsurancePage()[pri:19, instance:testCases.TestCase_003_HealthInsurance@645aa696]" name="HealthInsurancePage" class="testCases.TestCase_003_HealthInsurance"/>
+        <method signature="TestCase_003_HealthInsurance.DisplayList()[pri:20, instance:testCases.TestCase_003_HealthInsurance@645aa696]" name="DisplayList" class="testCases.TestCase_003_HealthInsurance"/>
+      </group> <!-- regression Test Three -->
+      <group name="smoke Test Two">
+        <method signature="TestCase_002_CarInsurance.NavigatingBack()[pri:11, instance:testCases.TestCase_002_CarInsurance@5b218417]" name="NavigatingBack" class="testCases.TestCase_002_CarInsurance"/>
+      </group> <!-- smoke Test Two -->
+      <group name="smoke Test Three">
+        <method signature="TestCase_003_HealthInsurance.NavigateHome()[pri:18, instance:testCases.TestCase_003_HealthInsurance@645aa696]" name="NavigateHome" class="testCases.TestCase_003_HealthInsurance"/>
+      </group> <!-- smoke Test Three -->
+      <group name="regression Test Two">
+        <method signature="TestCase_002_CarInsurance.CarInsurancePage()[pri:12, instance:testCases.TestCase_002_CarInsurance@5b218417]" name="CarInsurancePage" class="testCases.TestCase_002_CarInsurance"/>
+        <method signature="TestCase_002_CarInsurance.CarInsurancePage2()[pri:13, instance:testCases.TestCase_002_CarInsurance@5b218417]" name="CarInsurancePage2" class="testCases.TestCase_002_CarInsurance"/>
+        <method signature="TestCase_002_CarInsurance.CarInsurancePage3()[pri:14, instance:testCases.TestCase_002_CarInsurance@5b218417]" name="CarInsurancePage3" class="testCases.TestCase_002_CarInsurance"/>
+        <method signature="TestCase_002_CarInsurance.CarInsurancePage4()[pri:15, instance:testCases.TestCase_002_CarInsurance@5b218417]" name="CarInsurancePage4" class="testCases.TestCase_002_CarInsurance"/>
+        <method signature="TestCase_002_CarInsurance.displayErrorMessage()[pri:16, instance:testCases.TestCase_002_CarInsurance@5b218417]" name="displayErrorMessage" class="testCases.TestCase_002_CarInsurance"/>
+        <method signature="TestCase_002_CarInsurance.displayErrorMessage2()[pri:17, instance:testCases.TestCase_002_CarInsurance@5b218417]" name="displayErrorMessage2" class="testCases.TestCase_002_CarInsurance"/>
+      </group> <!-- regression Test Two -->
+    </groups>
+    <test started-at="2024-03-04T14:48:03 IST" name="Test" finished-at="2024-03-04T14:50:32 IST" duration-ms="148587">
+      <class name="testCases.TestCase_001_StudentInsuranceNavigation">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" started-at="2024-03-04T14:48:04 IST" name="setup" finished-at="2024-03-04T14:48:37 IST" duration-ms="32667" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyInsurance()[pri:1, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" started-at="2024-03-04T14:48:37 IST" name="VerifyInsurance" finished-at="2024-03-04T14:48:47 IST" duration-ms="10416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyInsurance -->
+        <test-method signature="EnterDetails1()[pri:2, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" started-at="2024-03-04T14:48:48 IST" name="EnterDetails1" depends-on-groups="smoke Test one" finished-at="2024-03-04T14:48:57 IST" duration-ms="9465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterDetails1 -->
+        <test-method signature="EnterDetails2()[pri:3, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" started-at="2024-03-04T14:48:58 IST" name="EnterDetails2" finished-at="2024-03-04T14:49:07 IST" duration-ms="9282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterDetails2 -->
+        <test-method signature="EnterDetails3()[pri:4, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" started-at="2024-03-04T14:49:07 IST" name="EnterDetails3" finished-at="2024-03-04T14:49:08 IST" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterDetails3 -->
+        <test-method signature="EnterDetails4()[pri:5, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" started-at="2024-03-04T14:49:08 IST" name="EnterDetails4" finished-at="2024-03-04T14:49:09 IST" duration-ms="1459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterDetails4 -->
+        <test-method signature="EnterDetails5()[pri:6, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" started-at="2024-03-04T14:49:10 IST" name="EnterDetails5" finished-at="2024-03-04T14:49:13 IST" duration-ms="3631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterDetails5 -->
+        <test-method signature="EnterDetails6()[pri:7, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" started-at="2024-03-04T14:49:14 IST" name="EnterDetails6" finished-at="2024-03-04T14:49:18 IST" duration-ms="4277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterDetails6 -->
+        <test-method signature="EnterDetails7()[pri:8, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" started-at="2024-03-04T14:49:31 IST" name="EnterDetails7" finished-at="2024-03-04T14:49:32 IST" duration-ms="551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterDetails7 -->
+        <test-method signature="EnterDetails8()[pri:9, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" started-at="2024-03-04T14:49:32 IST" name="EnterDetails8" finished-at="2024-03-04T14:49:37 IST" duration-ms="4257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterDetails8 -->
+        <test-method signature="InsurancePlans()[pri:10, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" started-at="2024-03-04T14:49:37 IST" name="InsurancePlans" finished-at="2024-03-04T14:49:39 IST" duration-ms="2582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InsurancePlans -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TestCase_001_StudentInsuranceNavigation@18271936]" started-at="2024-03-04T14:50:31 IST" name="tearDown" finished-at="2024-03-04T14:50:32 IST" duration-ms="510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TestCase_001_StudentInsuranceNavigation -->
+      <class name="testCases.TestCase_003_HealthInsurance">
+        <test-method signature="NavigateHome()[pri:18, instance:testCases.TestCase_003_HealthInsurance@645aa696]" started-at="2024-03-04T14:50:26 IST" name="NavigateHome" finished-at="2024-03-04T14:50:29 IST" duration-ms="2500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateHome -->
+        <test-method signature="HealthInsurancePage()[pri:19, instance:testCases.TestCase_003_HealthInsurance@645aa696]" started-at="2024-03-04T14:50:29 IST" name="HealthInsurancePage" depends-on-groups="smoke Test Three" finished-at="2024-03-04T14:50:29 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HealthInsurancePage -->
+        <test-method signature="DisplayList()[pri:20, instance:testCases.TestCase_003_HealthInsurance@645aa696]" started-at="2024-03-04T14:50:29 IST" name="DisplayList" finished-at="2024-03-04T14:50:31 IST" duration-ms="1661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DisplayList -->
+      </class> <!-- testCases.TestCase_003_HealthInsurance -->
+      <class name="testCases.TestCase_002_CarInsurance">
+        <test-method signature="NavigatingBack()[pri:11, instance:testCases.TestCase_002_CarInsurance@5b218417]" started-at="2024-03-04T14:49:40 IST" name="NavigatingBack" finished-at="2024-03-04T14:49:43 IST" duration-ms="3091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatingBack -->
+        <test-method signature="CarInsurancePage()[pri:12, instance:testCases.TestCase_002_CarInsurance@5b218417]" started-at="2024-03-04T14:49:43 IST" name="CarInsurancePage" depends-on-groups="smoke Test Two" finished-at="2024-03-04T14:50:04 IST" duration-ms="20614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarInsurancePage -->
+        <test-method signature="CarInsurancePage2()[pri:13, instance:testCases.TestCase_002_CarInsurance@5b218417]" started-at="2024-03-04T14:50:04 IST" name="CarInsurancePage2" finished-at="2024-03-04T14:50:08 IST" duration-ms="4216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarInsurancePage2 -->
+        <test-method signature="CarInsurancePage3()[pri:14, instance:testCases.TestCase_002_CarInsurance@5b218417]" started-at="2024-03-04T14:50:08 IST" name="CarInsurancePage3" finished-at="2024-03-04T14:50:13 IST" duration-ms="4352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarInsurancePage3 -->
+        <test-method signature="CarInsurancePage4()[pri:15, instance:testCases.TestCase_002_CarInsurance@5b218417]" started-at="2024-03-04T14:50:13 IST" name="CarInsurancePage4" finished-at="2024-03-04T14:50:17 IST" duration-ms="4452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarInsurancePage4 -->
+        <test-method signature="displayErrorMessage()[pri:16, instance:testCases.TestCase_002_CarInsurance@5b218417]" started-at="2024-03-04T14:50:17 IST" name="displayErrorMessage" finished-at="2024-03-04T14:50:22 IST" duration-ms="4260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayErrorMessage -->
+        <test-method signature="displayErrorMessage2()[pri:17, instance:testCases.TestCase_002_CarInsurance@5b218417]" started-at="2024-03-04T14:50:22 IST" name="displayErrorMessage2" finished-at="2024-03-04T14:50:26 IST" duration-ms="4240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayErrorMessage2 -->
+      </class> <!-- testCases.TestCase_002_CarInsurance -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

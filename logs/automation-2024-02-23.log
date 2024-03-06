@@ -1,0 +1,58 @@
+10:26:29.998 [main] INFO  testBase.BaseClass - Enter Car Insurance Plans Details
+10:28:52.553 [main] INFO  testBase.BaseClass - starting TestCase_001_StudentInsurance
+10:28:52.696 [main] INFO  testBase.BaseClass - Enter Student TravelInsurance Plan Details
+10:29:50.814 [main] INFO  testBase.BaseClass - Getting the list of Insurance Product Plans 
+10:30:00.832 [main] INFO  testBase.BaseClass - Enter Car Insurance Plans Details
+10:37:12.565 [main] INFO  testBase.BaseClass - starting TestCase_001_StudentInsurance
+10:37:12.616 [main] INFO  testBase.BaseClass - Enter Student TravelInsurance Plan Details
+10:38:12.355 [main] INFO  testBase.BaseClass - Getting the list of Insurance Product Plans 
+10:38:22.457 [main] INFO  testBase.BaseClass - Enter Car Insurance Plans Details
+10:40:20.240 [main] INFO  testBase.BaseClass - starting TestCase_001_StudentInsurance
+10:40:20.314 [main] INFO  testBase.BaseClass - Enter Student TravelInsurance Plan Details
+10:41:17.163 [main] INFO  testBase.BaseClass - Getting the list of Insurance Product Plans 
+10:41:27.216 [main] INFO  testBase.BaseClass - Enter Car Insurance Plans Details
+10:45:17.310 [main] INFO  testBase.BaseClass - starting TestCase_001_StudentInsurance
+10:45:17.411 [main] INFO  testBase.BaseClass - Enter Student TravelInsurance Plan Details
+10:46:14.306 [main] INFO  testBase.BaseClass - Getting the list of Insurance Product Plans 
+10:46:24.326 [main] INFO  testBase.BaseClass - Enter Car Insurance Plans Details
+10:51:40.258 [main] INFO  testBase.BaseClass - starting TestCase_001_StudentInsurance
+10:51:40.341 [main] INFO  testBase.BaseClass - Enter Student TravelInsurance Plan Details
+10:52:36.373 [main] INFO  testBase.BaseClass - Getting the list of Insurance Product Plans 
+10:52:46.400 [main] INFO  testBase.BaseClass - Enter Car Insurance Plans Details
+10:55:26.934 [main] INFO  testBase.BaseClass - starting TestCase_001_StudentInsurance
+10:55:27.043 [main] INFO  testBase.BaseClass - Enter Student TravelInsurance Plan Details
+10:56:33.770 [main] INFO  testBase.BaseClass - Getting the list of Insurance Product Plans 
+10:56:43.814 [main] INFO  testBase.BaseClass - Enter Car Insurance Plans Details
+11:06:49.414 [main] INFO  testBase.BaseClass - starting TestCase_001_StudentInsurance
+11:06:49.475 [main] INFO  testBase.BaseClass - Enter Student TravelInsurance Plan Details
+11:07:55.920 [main] INFO  testBase.BaseClass - Getting the list of Insurance Product Plans 
+11:08:05.981 [main] INFO  testBase.BaseClass - Enter Car Insurance Plans Details
+11:09:44.782 [main] INFO  testBase.BaseClass - starting TestCase_001_StudentInsurance
+11:09:44.882 [main] INFO  testBase.BaseClass - Enter Student TravelInsurance Plan Details
+11:10:39.837 [main] INFO  testBase.BaseClass - Getting the list of Insurance Product Plans 
+11:10:49.875 [main] INFO  testBase.BaseClass - Enter Car Insurance Plans Details
+11:13:06.852 [main] INFO  testBase.BaseClass - starting TestCase_001_StudentInsurance
+11:13:06.926 [main] INFO  testBase.BaseClass - Enter Student TravelInsurance Plan Details
+11:13:59.753 [main] INFO  testBase.BaseClass - Getting the list of Insurance Product Plans 
+11:14:09.843 [main] INFO  testBase.BaseClass - Enter Car Insurance Plans Details
+11:30:22.147 [main] INFO  testBase.BaseClass - starting TestCase_001_StudentInsurance
+11:30:22.212 [main] INFO  testBase.BaseClass - Enter Student TravelInsurance Plan Details
+11:31:22.730 [main] INFO  testBase.BaseClass - Getting the list of Insurance Product Plans 
+11:31:32.771 [main] INFO  testBase.BaseClass - Enter Car Insurance Plans Details
+11:34:43.782 [main] INFO  testBase.BaseClass - starting TestCase_001_StudentInsurance
+11:34:43.842 [main] INFO  testBase.BaseClass - Enter Student TravelInsurance Plan Details
+11:36:29.240 [main] INFO  testBase.BaseClass - Error message Printed
+11:36:29.249 [main] INFO  testBase.BaseClass - Getting the list of Insurance Product Plans 
+11:36:29.837 [main] INFO  testBase.BaseClass - Enter Car Insurance Plans Details
+11:39:29.018 [main] INFO  testBase.BaseClass - starting TestCase_001_StudentInsurance
+11:39:29.074 [main] INFO  testBase.BaseClass - Enter Student TravelInsurance Plan Details
+11:41:17.078 [main] INFO  testBase.BaseClass - Error message Printed
+11:41:17.088 [main] INFO  testBase.BaseClass - Getting the list of Insurance Product Plans 
+11:41:17.703 [main] INFO  testBase.BaseClass - Enter Car Insurance Plans Details
+11:50:51.830 [main] INFO  testBase.BaseClass - starting TestCase_001_StudentInsurance
+11:50:51.890 [main] INFO  testBase.BaseClass - Enter Student TravelInsurance Plan Details
+11:52:35.943 [main] INFO  testBase.BaseClass - Getting the list of Insurance Product Plans 
+11:52:36.574 [main] INFO  testBase.BaseClass - Enter Car Insurance Plans Details
+11:54:04.583 [main] INFO  testBase.BaseClass - Error message Printed
+21:56:29.057 [main] INFO  testBase.BaseClass - starting TestCase_001_StudentInsurance
+21:56:29.151 [main] INFO  testBase.BaseClass - Enter Student TravelInsurance Plan Details

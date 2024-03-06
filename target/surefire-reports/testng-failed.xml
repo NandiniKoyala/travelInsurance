@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="utilityMethods.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCases.TestCase_003_HealthInsurance">
+        <methods>
+          <include name="setup"/>
+          <include name="NavigateHome"/>
+          <include name="HealthInsurancePage"/>
+          <include name="tearDown"/>
+          <include name="DisplayList"/>
+        </methods>
+      </class> <!-- testCases.TestCase_003_HealthInsurance -->
+      <class name="testCases.TestCase_001_StudentInsuranceNavigation">
+        <methods>
+          <include name="EnterDetails7"/>
+          <include name="EnterDetails4"/>
+          <include name="setup"/>
+          <include name="EnterDetails5"/>
+          <include name="VerifyInsurance"/>
+          <include name="EnterDetails2"/>
+          <include name="EnterDetails8"/>
+          <include name="EnterDetails6"/>
+          <include name="tearDown"/>
+          <include name="EnterDetails3"/>
+          <include name="InsurancePlans"/>
+          <include name="EnterDetails1"/>
+        </methods>
+      </class> <!-- testCases.TestCase_001_StudentInsuranceNavigation -->
+      <class name="testCases.TestCase_002_CarInsurance">
+        <methods>
+          <include name="setup"/>
+          <include name="displayErrorMessage2"/>
+          <include name="displayErrorMessage"/>
+          <include name="NavigatingBack"/>
+          <include name="tearDown"/>
+          <include name="CarInsurancePage4"/>
+          <include name="CarInsurancePage3"/>
+          <include name="CarInsurancePage"/>
+          <include name="CarInsurancePage2"/>
+        </methods>
+      </class> <!-- testCases.TestCase_002_CarInsurance -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
